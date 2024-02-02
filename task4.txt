@@ -1,0 +1,11 @@
+The output is:
+
+
+Guess the output 
+---
+25
+14/2
+7
+
+
+practice makes perfect
