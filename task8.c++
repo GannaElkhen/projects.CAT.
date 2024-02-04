@@ -15,7 +15,7 @@ cout<<"Enter the id of second student";
 cin>>id2;
 cout<<"Enter the grad of second student";
 cin>>grad2;
-double avarage{(grad1+grad2)/2};
+double avarage{(grad1+grad2)/2.0};
 cout<<"The name of first student is "<< name1<<"\n";
 cout<<"The id of the first student is "<<id1<<"\n";
 cout<<"Thegrade of first student is "<<grad1<<"\n";
